@@ -18,7 +18,7 @@
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100">
             <div>
                 <a href="/">
-                <img src="{{URL::asset('/images/logo.jpg')}}" alt="" class="block h-20 w-20 fill-current text-gray-800">
+                <img src="{{URL::asset('/images/logo.png')}}" alt="" class="block h-24 w-29 fill-current text-gray-800">
                 </a>
             </div>
 
